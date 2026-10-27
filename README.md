@@ -8,7 +8,7 @@
 <!-- TYPING ANIMATION SUBTITLE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_ Building+Immersive+Spatial+Experiences;%3E_ Training+Deep+Learning+%26+Computer+Vision+Models;%3E_ Engineering+AI-Driven+Interactive+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E_+XR+%2F+AR+%2F+VR+Developer;%3E_+Deep+Learning+%26+Computer+Vision;%3E_+Creative+Technologist" alt="Typing SVG" />
   </a>
 </div>
 
